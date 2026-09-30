@@ -1,0 +1,10 @@
+rica_17
+calcium
+71 years
+plus
+male
+False
+False
+1200
+mg
+NIH-RIM, https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab3/?report=objectonly

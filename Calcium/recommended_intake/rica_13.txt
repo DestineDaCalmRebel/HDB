@@ -1,0 +1,10 @@
+rica_13
+calcium
+19 years
+50 years
+male
+False
+False
+1000
+mg
+NIH, https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
