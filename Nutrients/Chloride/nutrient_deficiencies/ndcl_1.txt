@@ -1,0 +1,4 @@
+ndcl_1
+chloride
+[[hypochloremia]], or low blood chloride, typically caused by excessive fluid loss (such as from vomiting, diarrhea, or diuretic use) rather than low dietary intake, with symptoms including weakness, fatigue, and difficulty breathing.
+MP, https://medlineplus.gov/ency/article/003485.htm, **

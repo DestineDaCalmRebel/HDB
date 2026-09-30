@@ -1,0 +1,4 @@
+nodcr_2
+chromium
+Isolated case reports have linked high-dose chromium supplements to weight loss, anemia, thrombocytopenia, liver dysfunction, renal failure, rhabdomyolysis, dermatitis, and hypoglycemia.
+NIH, https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/, **

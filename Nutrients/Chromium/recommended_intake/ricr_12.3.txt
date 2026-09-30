@@ -1,0 +1,10 @@
+ricr_12.3
+chromium
+14 years
+18 years
+female
+False
+True
+44
+mcg
+NIH, https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/

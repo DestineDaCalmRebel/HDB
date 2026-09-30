@@ -1,0 +1,10 @@
+ricr_5
+chromium
+1 year
+3 years
+male
+False
+False
+11
+mcg
+NIH, https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/

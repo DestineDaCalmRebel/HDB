@@ -1,0 +1,4 @@
+ndcr_1
+chromium
+No clinically defined chromium deficiency state has been established in healthy people; earlier reports of deficiency-like symptoms in patients on long-term parenteral nutrition are no longer considered good evidence of true chromium deficiency.
+NIH, https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/, **

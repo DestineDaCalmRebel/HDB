@@ -1,0 +1,4 @@
+nodcl_1
+chloride
+[[hyperchloremia]], or elevated blood chloride, usually related to dehydration or kidney dysfunction rather than dietary intake, and often associated with metabolic acidosis.
+MP, https://medlineplus.gov/ency/article/003485.htm, **

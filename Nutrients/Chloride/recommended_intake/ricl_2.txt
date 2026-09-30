@@ -1,0 +1,10 @@
+ricl_2
+chloride
+0
+6 months
+female
+False
+False
+180
+mg
+NIH-RIM, https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab3/?report=objectonly

@@ -1,0 +1,4 @@
+nfcr_1
+chromium
+Thought to enhance insulin's action on carbohydrate, lipid, and protein metabolism, though the exact mechanism has not been confirmed and its essentiality as a nutrient is disputed.
+NIH, https://ods.od.nih.gov/factsheets/Chromium-HealthProfessional/, **

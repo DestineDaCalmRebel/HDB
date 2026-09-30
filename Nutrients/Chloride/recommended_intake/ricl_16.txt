@@ -1,0 +1,10 @@
+ricl_16
+chloride
+51 years
+70 years
+female
+False
+False
+2000
+mg
+NIH-RIM, https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab3/?report=objectonly

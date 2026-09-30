@@ -1,0 +1,10 @@
+rica_12.2
+calcium
+14 years
+18 years
+female
+True
+Fasle
+1300
+mg
+NIH-RIM, https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab3/?report=objectonly

@@ -1,0 +1,4 @@
+nfcl_1
+chloride
+Works with sodium and potassium as an electrolyte to help control the amount of fluid in the body and maintain healthy blood volume and blood pressure.
+MP, https://medlineplus.gov/lab-tests/electrolyte-panel/

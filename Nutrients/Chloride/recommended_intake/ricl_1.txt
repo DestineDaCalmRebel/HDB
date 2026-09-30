@@ -1,0 +1,10 @@
+ricl_1
+chloride
+0
+6 months
+male
+False
+False
+180
+mg
+NIH-RIM, https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab3/?report=objectonly
